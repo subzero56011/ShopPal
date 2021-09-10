@@ -1,0 +1,6 @@
+package com.shopping.shopping_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
